@@ -1,0 +1,67 @@
+[
+  {
+    "idProducto": 1,
+    "nombre": "Laptop Dell Latitude 5520",
+    "familia": "Computadores",
+    "marca": "Dell",
+    "numeroSerie": "DL5520-2024-001",
+    "idOc": 1,
+    "fechaIngreso": "2024-01-15",
+    "activoFijo": true,
+    "costoNeto": 850000,
+    "margen": 0.15,
+    "precioVenta": 977500
+  },
+  {
+    "idProducto": 2,
+    "nombre": "Monitor Samsung 24\"",
+    "familia": "Monitores",
+    "marca": "Samsung",
+    "numeroSerie": "SM24-2024-002",
+    "idOc": 1,
+    "fechaIngreso": "2024-01-15",
+    "activoFijo": true,
+    "costoNeto": 120000,
+    "margen": 0.20,
+    "precioVenta": 144000
+  },
+  {
+    "idProducto": 3,
+    "nombre": "Teclado Mecánico Logitech",
+    "familia": "Periféricos",
+    "marca": "Logitech",
+    "numeroSerie": "LGKB-2024-003",
+    "idOc": 2,
+    "fechaIngreso": "2024-01-20",
+    "activoFijo": false,
+    "costoNeto": 45000,
+    "margen": 0.25,
+    "precioVenta": 56250
+  },
+  {
+    "idProducto": 4,
+    "nombre": "Mouse Inalámbrico Microsoft",
+    "familia": "Periféricos",
+    "marca": "Microsoft",
+    "numeroSerie": "MSMS-2024-004",
+    "idOc": 2,
+    "fechaIngreso": "2024-01-20",
+    "activoFijo": false,
+    "costoNeto": 25000,
+    "margen": 0.30,
+    "precioVenta": 32500
+  },
+  {
+    "idProducto": 5,
+    "nombre": "Impresora HP LaserJet Pro",
+    "familia": "Impresoras",
+    "marca": "HP",
+    "numeroSerie": "HPIJ-2024-005",
+    "idOc": 3,
+    "fechaIngreso": "2024-02-01",
+    "activoFijo": true,
+    "costoNeto": 180000,
+    "margen": 0.18,
+    "precioVenta": 212400
+  }
+] 

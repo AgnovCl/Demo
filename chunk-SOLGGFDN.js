@@ -1,0 +1,1 @@
+var e=function(r){return r[r.Ingreso=1]="Ingreso",r[r.Egreso=2]="Egreso",r[r.Prestamo=3]="Prestamo",r[r.Devolucion=4]="Devolucion",r}(e||{});var a=function(r){return r[r.Administrador=1]="Administrador",r[r.Operador=2]="Operador",r[r.Supervisor=3]="Supervisor",r}(a||{});export{e as a,a as b};
